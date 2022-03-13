@@ -5,6 +5,7 @@ Zoom Template
 http://www.templatemo.com/tm-414-zoom
 
 */
+
 .para p
 {
     width:100%;
@@ -234,6 +235,7 @@ img.slide {
 
 .btn-menu {
     padding: 20px 0;
+    border-radius: 18px;
     text-align: center;
 }
 
