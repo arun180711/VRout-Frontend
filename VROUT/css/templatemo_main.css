@@ -12,7 +12,7 @@ http://www.templatemo.com/tm-414-zoom
 }
 .meet2
 {
-    color: red;
+    color: rgb(241, 232, 232);
 /*text-decoration:none;
 color:black;
 background-color:rgb(37, 39, 39);
@@ -37,7 +37,7 @@ body {
     font-size: 1em;
     line-height: 1.4;
     font-family: 'Raleway', sans-serif;
-    font-style: normal; 
+    font-style: italic; 
     -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
     -webkit-text-size-adjust: 100%;
     background-color: urls("images/bg.jpeg");
